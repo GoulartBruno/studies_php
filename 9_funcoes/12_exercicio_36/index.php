@@ -60,3 +60,6 @@ function arryFor(){
 }
 
 echo arryFor();
+
+?>
+
